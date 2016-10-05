@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="12071619520940"
+    token="3041428656609884525"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4914" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="485" />
+    <task
+        name="verifier"
+        duration="208" />
+
+    <artifact
+        location="C:\Users\kh1073\Documents\AndroidFingerPrint\DisplaylNotification\mobile\build\outputs\apk\mobile-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="12071619520940"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\kh1073\Documents\AndroidFingerPrint\DisplaylNotification\mobile\build\outputs\apk\mobile-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

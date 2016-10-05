@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisplaylNotification</string>
+    <string name="show_notification">Click Me!</string>
+</resources>
